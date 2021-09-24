@@ -52,7 +52,7 @@ body{
   }
   #menu_list{
 	background-color:#f5c71a;
-	color:black; 
+	color:white; 
 	width: 200px;
 	border: none;
   }
@@ -83,7 +83,7 @@ body{
 	height:100px;
 	border: none;
 	background-color:#e2062c;
-	color:black;
+	color:white;
 	font-size: 15px;
 	font-family: cursive;
   }
